@@ -1,7 +1,5 @@
 # Python_Pandas
 
-Este repositório é dedicado ao estudo de Python e à análise de dados utilizando a biblioteca Pandas. O foco principal é importar, manipular e analisar dados de diferentes fontes, além de gerar relatórios de análise sobre as bases de dados.
-
 O código realiza as seguintes operações:
 
 1. Importa a base de dados `aluguel.csv` utilizando a função `read_csv` do Pandas com o separador `;`.
