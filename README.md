@@ -13,6 +13,11 @@ O código realiza as seguintes operações:
 
 <h3>Arquivo: Imóveis Residenciais</h3>
 
+1. Importação da base de dados
+2. Identificação de tipos de imóveis únicos `drop_duplicates()`
+3. Método `.isin()` para identificar se o valor da coluna Tipo corresponde a algum desses tipos residenciais.
+4. Exportação da base filtrada:
+
 <h3>Arquivo: Extra 1</h3>
 Comandos que capturam as informações de arquivos csv, json, txt, xslx ou em html:
 
