@@ -10,7 +10,7 @@ O código realiza as seguintes operações:
 6. Organizando os dados em um DataFrame `.drop_duplicates()`.
 7. Reindexação `range(nome_var_DataFrame.shape[0])`.
 
-Além  disso, adicionei um arquivo "extra" na qual contém arquivos e comandos que capturam as informações desses arquivos sendo eles csv, json, txt, xslx ou em html:
+Além  disso, adicionei um arquivo "Extra 1" na qual contém arquivos e comandos que capturam as informações desses arquivos sendo eles csv, json, txt, xslx ou em html:
 
 1. Importa dados de um arquivo CSV - `pd.read_csv()`, verifica o tipo de dados, exibe informações gerais e a tipagem das variáveis.
 2. Importa dados de arquivos JSON - `open()` e `pd.read_json()`.
