@@ -18,6 +18,10 @@ Além  disso, adicionei um arquivo "Extra 1" na qual contém arquivos e comandos
 4. Importa dados de arquivos Excel - `pd.read_excel()`.
 5. Importa dados de arquivos HTML - `pd.read_html()`.
 
+Outro ponto, também foi adicionado um arquivo "Extra 2" que realiza operações básicas utilizando a biblioteca pandas do Python para criar e manipular objetos do tipo Series e DataFrame
+
+1. Criação/ Modificação de uma Series com uma lista de dados.
+2. Criação/ Modificação de um DataFrame a partir de uma lista.
 
 
 
