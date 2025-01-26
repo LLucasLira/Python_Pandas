@@ -33,10 +33,13 @@ Operações básicas utilizando a biblioteca pandas do Python para criar e manip
 1. Criação/ Modificação de uma Series com uma lista de dados.
 2. Criação/ Modificação de um DataFrame a partir de uma lista.
 
-<h3>Exercícios -  Seleção e Frequência</h3>
+<h3>Exercícios -  Seleção e Frequência:</h3>
 1. Selecione somente os imóveis classificados com tipo "Apartamento"
+
 2. Selecione os imóveis classificados com tipo "Casa", "Casa de Condomínio" e "Casa de Vila"
+  
 3. Selecione os imóveis com área entre 60 e 100 metros quadrados, incluindo os limites.
+ 
 4. Selecione os imóveis que tenham pelo menos 4 quartos e aluguel menor que R$ 2.000,00.
 
 
